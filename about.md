@@ -1,7 +1,7 @@
 ---
 layout: page
 title: resume
-permalink: /resume/
+permalink: /about/
 ---
 
 | email      | fualex@hotmail.com |
