@@ -1,8 +1,9 @@
 # Site settings
 title: Shihhua Fu
 email: fualex@hotmail.com
+LinkedIn: https://www.linkedin.com/in/shihhuafu/
 description: > # this means to ignore newlines until "baseurl:"
-  I am a swift developer live in Bay area.LinkedIn: https://www.linkedin.com/in/shihhuafu/
+  I am a swift developer live in Bay area.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://futomtom.github.io" # the base hostname & protocol for your site
 github_username:  futomtom
