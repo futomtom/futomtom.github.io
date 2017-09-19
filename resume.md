@@ -4,7 +4,7 @@ title: resume
 permalink: /resume/
 ---
 
-| email      | fualex@hotmail.com |
+| email      | futomtom@hotmail.com |
 |-----------|:------------:|
 | tel | 415-589-9153  |
 | Linkedin | https://www.linkedin.com/in/shihhuafu  |
@@ -16,14 +16,13 @@ permalink: /resume/
 
 * Skills: 
     * Language: Swift, Objective-C , C.
-    * Frameworks experience: UIKit, CoreBlooth, MapKit, AVKit , etc.
     * Please visit my github page with some gif of UI I developed.  https://goo.gl/17zMQE    
 	* Communicate with device by BLE and Protobuf.  
 	* Audio/video streaming with PlayerItem and KVO. 
 	* CoreData:background task/context, async fetch, manual migration.
 	* Realm,Filebase: real time data sync between multiple clients.
 	* Autolayout, dynamic cell high, UIStackView, constraint priority.     
-	* Release:TestFlight, Appstore, In app purchase, fastlane Continue integration.
+	* Release:TestFlight, Appstore, Fabric,Crashlytics. 
 	* Network relation operation, and priority ,notification, REST API. 
 	* Multithread with Operation or GCD. 
 	* Automation build and test with fastlane or command line script. 
@@ -32,7 +31,7 @@ permalink: /resume/
 
 * Work Experience:
    * iOS developer@Dynosense San Jose.  2016.06-Now 
-     Develop 60% of whole app, migrate whole codebase from 2.2 to 2.3 and 3.0, implemented function incldue:communicate with BLE device.
+     Develop 60% of whole app, migrate codebase from swift 2.2,3.0, 4.0, communicate with BLE device[Blood Pressure monitor, Scale].
      retrieve data and draw them into chart, save/get data from server, UI.  
    * iOS developer@SanYu inc Taipei 2012-2016 develop several apps for customers.  
    * Embedded system developer@ HTC, BenQ, Compal. Taiwan. 
