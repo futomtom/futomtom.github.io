@@ -1,8 +1,4 @@
----
-layout: page
-title: resume
-permalink: /resume/
----
+
 
 | email      | futomtom@hotmail.com |
 |-----------|:------------:|
@@ -15,64 +11,35 @@ permalink: /resume/
  
 
 * Skills: 
-    * Language: Swift, Objective-C , C.
-    * Please visit my github page with some gif of UI I developed.  https://goo.gl/17zMQE    
-	* Communicate with device by BLE and Protobuf.  
+  * Language: Swift, Objective-C,shell script.
+  * Please visit my github page for my profolio.  https://futomtom.github.io/    
+	* BLE Communicate with CoreBluetooth ,Protobuf.  
 	* Audio/video streaming with PlayerItem and KVO. 
 	* CoreData:background task/context, async fetch, manual migration.
 	* Realm,Filebase: real time data sync between multiple clients.
 	* Autolayout, dynamic cell high, UIStackView, constraint priority.     
-	* Release:TestFlight, Appstore, Fabric,Crashlytics. 
+	* DevOps: fastlane, TestFlight, Appstore, Fabric,Crashlytics. 
 	* Network relation operation, and priority ,notification, REST API. 
 	* Multithread with Operation or GCD. 
 	* Automation build and test with fastlane or command line script. 
-	* Tools: JIRA, git, Dash, Postman, Reveal, Charles, CoreData Editor, fastlane, Charles. 
-	* Reverse engineer with JB phone, reveal loader, dumper. 
+	* Tools: JIRA, git, Dash, Postman, Charles,Reveal, CoreData Editor.  
 
 * Work Experience:
    * iOS developer@Dynosense San Jose.  2016.06-Now 
-     Develop 60% of whole app, migrate codebase from swift 2.2,3.0, 4.0, communicate with BLE device[Blood Pressure monitor, Scale].
+     Develop app whcih get data from BLE blood pressure, weight scale, health monitor, implement fancy chart, animation, UI.
      retrieve data and draw them into chart, save/get data from server, UI.  
-   * iOS developer@SanYu inc Taipei 2012-2016 develop several apps for customers.  
-   * Embedded system developer@ HTC, BenQ, Compal. Taiwan. 
+   
 
 * Profolio:  
-   - https://itunes.apple.com/us/app/dynolife/id1050368016?mt=8#
-   ```
-1.BLE device:commute with BlueTooth blood pressure monitor.    
-2.REST(JSON,XML,Protocol Buffer):connect 3rd party API. 
-3.speechSynthesizer: voice tutor. 
-4.push notification. 
-```
-   - https://github.com/futomtom/BookingApp
-  
-   ```
- 1. coding in swift 3.0 
- 2. use Firebase to real time data sync between different mobile clients.  
- 3. Support Facebook login , Google login , id-password login.
- 4.  notification,#coreData 
- ```
- [demo video](https://youtu.be/Uu4bA6-zPD0)
-
- * https://itunes.apple.com/us/app/keyboardgame-funny/id1187188236?mt=8
-```
-   1. In-App purchase.2D sprite game  
- ```
- * https://itunes.apple.com/us/app/pomodoro-production-boost/id1056597190?mt=8
+   - [https://itunes.apple.com/us/app/dynolife/id1050368016?mt=8#]() 
+		* BLE device:commute with BlueTooth blood pressure monitor.    
+		* Implement animation, chart drawing, UI. 
+		* speechSynthesizer: voice tutor. 
+		* push notification. 
+		
+   - [https://itunes.apple.com/us/app/decor-matters-ar-home-design/id1168709467?mt=8]()
+	 * develop AR measure & AR furniture. demo video: [https://youtu.be/yHGwPMx1sQw]()
  
-     ```
-     1. Watchkit: with apple watch app
-     2. CoreData: save user data with CoreData
-```
-  - https://itunes.apple.com/us/app/sidc-hotel-control/id885790469?mt=8
-  - https://itunes.apple.com/us/app/sidc-control-hotel-room-control/id975032489?mt=8
-  - https://itunes.apple.com/us/app/movie-tv-themoviedb/id802927801?mt=8
-  - https://itunes.apple.com/us/app/episold-home/id873227200?mt=8
-  - https://itunes.apple.com/us/app/hot-sales/id802857855?mt=8
-  - https://itunes.apple.com/us/app/tai-hao-chi/id815821678?mt=8
-   ```
-   The above apps ALL developed by me. 
-   ```
 
 * Some UI of above Apps. 
 
