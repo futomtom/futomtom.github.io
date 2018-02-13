@@ -42,7 +42,8 @@
  
 
 * Some UI of above Apps. 
-
+![](https://github.com/futomtom/profile/raw/master/AR1.jpg)
+![](https://github.com/futomtom/profile/raw/master/AR2.jpg)
 ![](https://github.com/futomtom/profile/raw/master/ui1.gif)
 ![](https://github.com/futomtom/profile/raw/master/ui2.gif)
 ![](https://github.com/futomtom/profile/raw/master/ui3.gif)
